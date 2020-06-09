@@ -7,6 +7,8 @@ public class HelloGit {
         System.out.println("更新1");
         System.out.println("创建分支1");
         System.out.println("主干添加");
+        System.out.println("在线更新主干添加");
+        System.out.println("在线测试主干添加");
     }
 
 }
